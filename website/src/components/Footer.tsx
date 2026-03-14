@@ -8,12 +8,12 @@ function Footer() {
       </Link>
       
       
-      <Link to="/grok" className="footer-link">
+      {/* <Link to="/grok" className="footer-link">
         Grok Case Study
-      </Link>
-      <Link to="/recs" className="footer-link">
+      </Link> */}
+      {/* <Link to="/recs" className="footer-link">
         Recommendations
-      </Link>
+      </Link> */}
 
       <a
         href="https://arxiv.org/abs/2602.04759"
