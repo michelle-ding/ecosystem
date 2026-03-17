@@ -48,7 +48,18 @@ function Home() {
 
         {openPanel && (
           <div className="panel-content">
-            <ReactMarkdown>{markdown}</ReactMarkdown>
+            <ReactMarkdown
+                components={{
+                  h1: ({node, ...props}) => <h1 className="md-h1" {...props} />,
+                  h2: ({node, ...props}) => <h2 className="md-h2" {...props} />,
+                  h3: ({node, ...props}) => <h3 className="md-h3" {...props} />,
+                  p: ({node, ...props}) => <p className="md-p" {...props} />,
+                  ul: ({node, ...props}) => <ul className="md-ul" {...props} />,
+                  li: ({node, ...props}) => <li className="md-li" {...props} />,
+                }}
+              >
+                {markdown}
+              </ReactMarkdown>
           </div>
         )}
       </div>

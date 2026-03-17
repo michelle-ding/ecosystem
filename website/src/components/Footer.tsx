@@ -4,14 +4,15 @@ function Footer() {
   return (
     
     <footer className="footer">
-
+      <Link to="/home" className="footer-link">
+        Ecosystem
+      </Link>
+      
       <Link to="/about" className="footer-link">
         About
       </Link>
 
-      <Link to="/home" className="footer-link">
-        Ecosystem
-      </Link>
+      
 
       
       {/* <Link to="/grok" className="footer-link">
@@ -21,22 +22,22 @@ function Footer() {
         Recommendations
       </Link> */}
 
-      <a
+      {/* <a
         href="https://arxiv.org/abs/2602.04759"
         target="_blank"
         className="footer-link"
       >
         Research Paper
-      </a>
+      </a> */}
 
-      <a
+      {/* <a
         href="https://arxiv.org/abs/2602.04759"
         target="_blank"
         className="footer-link"
       >
         Stay Updated
       </a>
-      
+       */}
     </footer>
   );
 }

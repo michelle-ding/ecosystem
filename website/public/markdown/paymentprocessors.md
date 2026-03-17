@@ -2,7 +2,7 @@
 
 **Role in AIG-NCII: Monetization**
 
-Contributes to the non-consensual creation of AI-generated intimate images.
+Enables the monetization of non-consensual creation and distribution of AI-generated intimate images
 
 **Description**
 
