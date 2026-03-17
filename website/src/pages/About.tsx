@@ -7,13 +7,13 @@ function About() {
   const [markdown2, setMarkdown2] = useState("");
 
   useEffect(() => {
-    fetch("/markdown/about.md")
+    fetch("/ecosystem/markdown/about.md")
       .then((res) => res.text())
       .then((text) => setMarkdown1(text));
   }, []);
 
   useEffect(() => {
-    fetch("/markdown/stayupdated.md")
+    fetch("/ecosystem/markdown/stayupdated.md")
       .then((res) => res.text())
       .then((text) => setMarkdown2(text));
   }, []);

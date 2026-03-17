@@ -24,7 +24,7 @@ function Home() {
       const item = data.find((d) => d.id === openPanel);
 
       if (item) {
-        const path = `/markdown/${item.description}.md`;
+        const path = `/ecosystem/markdown/${item.description}.md`;
 
         fetch(path)
           .then((res) => res.text())
