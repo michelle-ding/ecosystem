@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { HashRouter, Routes, Route, useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
 
 import Header from "./components/Header";
@@ -11,26 +11,22 @@ import MobileLanding from "./pages/MobileLanding";
 function AppContent() {
   const location = useLocation();
 
-  // 👇 detect screen size
+  // Detect if the screen is mobile
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
-    const checkScreen = () => {
-      setIsMobile(window.innerWidth <= 768);
-    };
+    const handleResize = () => setIsMobile(window.innerWidth <= 768);
 
-    checkScreen();
-    window.addEventListener("resize", checkScreen);
+    handleResize(); // initial check
+    window.addEventListener("resize", handleResize);
 
-    return () => window.removeEventListener("resize", checkScreen);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  // 👇 if mobile, override everything
-  if (isMobile) {
-    return <MobileLanding />;
-  }
+  // Mobile landing overrides everything
+  if (isMobile) return <MobileLanding />;
 
-  // Show header/footer for all pages except landing ("/")
+  // Show header/footer for all pages except main landing ("/")
   const showHeaderFooter = location.pathname !== "/";
 
   return (
@@ -48,10 +44,11 @@ function AppContent() {
   );
 }
 
+// Use HashRouter for GitHub Pages deployment
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <AppContent />
-    </BrowserRouter>
+    </HashRouter>
   );
 }

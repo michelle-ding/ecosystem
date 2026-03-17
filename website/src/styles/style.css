@@ -62,9 +62,12 @@ html, body {
 
 .landing-text-container {
   position: relative;
-  text-align: left; 
+  text-align: left;
   max-width: 50%;
   padding: 10px;
+  display: flex;
+  flex-direction: column; /* stack items vertically */
+  gap: 16px; /* space between image and text */
 }
 
 .enter-button {
