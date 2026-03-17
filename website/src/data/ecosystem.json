@@ -2,67 +2,67 @@
   {
     "id": 1,
     "name": "Training Data",
-    "category": "Category A",
-    "description": "This is the description for Button 1."
+    "category": "Creation",
+    "description": "trainingdata"
   },
   {
     "id": 2,
     "name": "Generative AI Models",
-    "category": "Category B",
-    "description": "This is the description for Button 2."
+    "category": "Creation",
+    "description": "models"
   },
   {
     "id": 3,
     "name": "Generative AI Interfaces",
-    "category": "Category C",
-    "description": "This is the description for Button 3."
+    "category": "Creation",
+    "description": "interfaces"
   },
   {
     "id": 4,
     "name": "Distribution Channels",
-    "category": "Category A",
-    "description": "This is the description for Button 4."
+    "category": "Distribution",
+    "description": "distribution"
   },
   {
     "id": 5,
     "name": "Deepfake Creation Communities",
-    "category": "Category B",
-    "description": "This button covers row 2 entirely."
+    "category": "Distribution",
+    "description": "communities"
   },
   {
     "id": 6,
     "name": "Search Engines",
-    "category": "Category C",
-    "description": "This button occupies the last two columns of row 3."
+    "category": "Proliferation and Discovery",
+    "description": "searchengines"
   },
   {
     "id": 7,
     "name": "Ad Platforms",
-    "category": "Category A",
-    "description": "This button occupies column 3 of row 4."
+    "category": "Proliferation and Discovery",
+    "description": "ads"
   },
   {
     "id": 8,
     "name": "App Stores",
-    "category": "Category B",
-    "description": "This button occupies column 3 of row 5."
+    "category": "Proliferation and Discovery",
+    "description": "appstores"
   },
   {
     "id": 9,
     "name": "Developer Platforms",
-    "category": "Category C",
-    "description": "This button covers columns 1 and 2 of row 6."
+    "category": "Infrastructural Support",
+    "description": "developerplatforms"
   },
   {
     "id": 10,
     "name": "Critical Service Providers",
-    "category": "Category A",
-    "description": "This button spans all of row 7."
+    "category": "Infrastructural Support",
+    "description": "providers"
   },
   {
     "id": 11,
     "name": "Payment Processors",
-    "category": "Category B",
-    "description": "This button spans all of row 8."
+    "category": "Monetization",
+    "description": "paymentprocessors"
   }
 ]

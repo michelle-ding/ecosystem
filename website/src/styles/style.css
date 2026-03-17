@@ -71,19 +71,25 @@ html, body {
 .arrow-icon {
   color: var(--purple);
 }
-
 /* FOOTER */
 .footer {
-  position: absolute;   
-  bottom: 20px;        
-  right: 20px;        
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+
+  box-sizing: border-box; /* fixes overflow */
+
+  background-color: white;
+  padding: 20px;
+
   display: flex;
-  gap: 40px;          
-  text-align: right;
-  background: none;  
-  padding: 0;        
-  z-index: 2000;       
+  justify-content: flex-end;
+  gap: 40px;
+
+  z-index: 2000;
 }
+
 
 .footer-link {
   text-decoration: none;
@@ -170,15 +176,21 @@ html, body {
 .side-panel {
   position: fixed;
   top: 0;
-  right: 0;                  /* anchored to right */
-  width: 400px;
+  right: 0;
+  width: 450px;
   height: 100vh;
   background-color: white;
   box-shadow: -4px 0 10px var(--light-purple);
   padding: 20px;
-  transform: translateX(100%); /* move it completely out of view */
+  padding-bottom: 120px; /* extra scroll space */
+  transform: translateX(100%);
   transition: transform 0.3s ease;
   z-index: 1000;
+  overflow-y: scroll;
+}
+
+.panel-content {
+  padding-bottom: 120px; /* adjust to match footer height */
 }
 
 .side-panel.open {
