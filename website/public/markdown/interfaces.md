@@ -1,10 +1,10 @@
 # Generative AI Interfaces
 
-**Role in AIG-NCII: Creation**
+## Role in AIG-NCII: Creation
 
 Contributes to the non-consensual creation of AI-generated intimate images.
 
-**Description**
+## Description
 
 Generative AI Interfaces increase the accessibility of AIG-NCII by providing an easy-to-use
 interface (e.g., computer software, website, or mobile app) for users to access generative AI model capabilities. 

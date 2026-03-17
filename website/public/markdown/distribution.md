@@ -1,10 +1,10 @@
 # Distribution Channels
 
-**Role in AIG-NCII: Distribution**
+## Role in AIG-NCII: Distribution
 
 Contributes to the non-consensual distribution of AI-generated intimate images.
 
-**Description**
+## Description
 
 Distribution Channels include both the private channels and public platforms that AI-
 generated intimate images may be non-consensually distributed across. 

@@ -1,10 +1,10 @@
 # Developer Platforms
 
-**Role in AIG-NCII: Infrastructural Support**
+## Role in AIG-NCII: Infrastructural Support
 
 Provides critical infrastructural support that allows technologies on the creation and distribution levels to function.
 
-**Description**
+## Description
 
 Developer Platforms are platforms for developers to create, store, manage, and share code,
 including models and datasets. 

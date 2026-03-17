@@ -1,10 +1,10 @@
 # Deepfake Creation Communities
 
-**Role in AIG-NCII: Proliferation & Discovery**
+## Role in AIG-NCII: Proliferation & Discovery
 
 Contributes to the proliferation and discovery of technologies used to non-consensually create and distribute of AI-generated intimate images.
 
-**Description**
+## Description
 
 Deepfake Creation Communities are online communities that provide general and technical
 assistance to members trying to create deepfakes. They are a “[key driving force](https://regmedia.co.uk/2019/10/08/deepfake_report.pdf) behind the increasing

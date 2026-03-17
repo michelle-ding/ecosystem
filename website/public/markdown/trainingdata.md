@@ -1,10 +1,10 @@
 # Training Data
 
-**Role in AIG-NCII: Creation**
+## Role in AIG-NCII: Creation
 
 Contributes to the non-consensual creation of AI-generated intimate images.
 
-**Description**
+## Description
 
 Training datasets refer to text, image, video, audio, and/or multi-modal datasets used to train generative AI models. 
 

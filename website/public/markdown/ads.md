@@ -1,10 +1,10 @@
 # Advertisement Platforms
 
-**Role in AIG-NCII: Proliferation & Discovery**
+## Role in AIG-NCII: Proliferation & Discovery
 
 Contributes to the proliferation and discovery of technologies used to non-consensually create and distribute of AI-generated intimate images.
 
-**Description**
+## Description
 
 Advertisement Platforms refer to platforms that enable organizations and individuals to
 place ads (specifically for AI nudifier apps) that drive massive traffic to these tools. 

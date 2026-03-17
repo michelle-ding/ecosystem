@@ -1,10 +1,10 @@
 # Critical Service Providers
 
-**Role in AIG-NCII: Infrastructural Support**
+## Role in AIG-NCII: Infrastructural Support
 
 Provides critical infrastructural support that allows technologies on the creation and distribution levels to function.
 
-**Description**
+## Description
 
 Critical Service Providers, including cloud service providers, domain name services (DNS),
 and authentication services, are support software, enabling the existence of multiple pieces of the

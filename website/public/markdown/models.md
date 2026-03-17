@@ -1,10 +1,10 @@
 # Generative AI Models
 
-**Role in AIG-NCII: Creation**
+## Role in AIG-NCII: Creation
 
 Contributes to the non-consensual creation of AI-generated intimate images.
 
-**Description**
+## Description
 
 Generative AI Models refer to a spectrum of models that use deep learning techniques to take
 in an input and produce a modified output. 

@@ -15,9 +15,11 @@ function Landing() {
           <br></br><br></br>
           </div>
           <div className="landing-warning">
-            Content Warning:
-           Image-Based Sexual Abuse and Gender-Based Violence
+            Content Warning: This site contains text descriptions of 
+              topics relating to 
+              image-based sexual abuse and gender-based violence.
            </div>
+           <br></br>
         </div>
         <button
           className="enter-button"

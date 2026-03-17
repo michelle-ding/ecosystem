@@ -1,10 +1,10 @@
 # Search Engines
 
-**Role in AIG-NCII: Proliferation & Discovery**
+## Role in AIG-NCII: Proliferation & Discovery
 
 Contributes to the proliferation and discovery of technologies used to non-consensually create and distribute of AI-generated intimate images.
 
-**Description**
+## Description
 
 Search Engines enable the wide-spread discovery of AI nudifier apps, AIG-NCII, and distribution sites. 
 

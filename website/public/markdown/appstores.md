@@ -1,10 +1,10 @@
 # App Stores
 
-**Role in AIG-NCII: Proliferation & Discovery**
+## Role in AIG-NCII: Proliferation & Discovery
 
 Contributes to the proliferation and discovery of technologies used to non-consensually create and distribute of AI-generated intimate images.
 
-**Description**
+## Description
 
 App Stores are digital marketplaces for producers to upload and advertise apps and for con-
 sumers discover and download apps. The National Center on Sexual Exploitation has previously

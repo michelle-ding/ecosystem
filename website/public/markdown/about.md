@@ -2,12 +2,18 @@
 
 ## Michelle L. Ding, Harini Suresh, Suresh Venkatasubramanian
 
-The last decade has witnessed a rapid advancement of generative AI technology that significantly scaled the accessibility of AI-generated non-consensual intimate images (AIG-NCII), a form of image-based sexual abuse that disproportionately harms and silences women and girls. There is a patchwork of commendable efforts across industry, policy, academia, and civil society to address AIG-NCII. However, these efforts lack a shared, consistent mental model that clearly situates the technologies they target within the context of a large, interconnected, and ever-evolving technological ecosystem. As a result, interventions remain siloed and are difficult to evaluate and compare, leading to a reactive cycle of whack-a-mole. In this paper, we contribute the first comprehensive AIG-NCII technological ecosystem that maps and taxonomizes 11
-categories of technologies facilitating the creation, distribution, proliferation and discovery, infrastructural support, and monetization of AIG-NCII. First, we build and visualize the ecosystem through a synthesis of over a hundred primary sources from researchers, journalists, advocates, policymakers, and technologists. Next, we demonstrate how stakeholders can use the ecosystem as a tool to 1) understand new incidents of harm via a case study of Grok and 2) evaluate existing interventions via three more case studies. We conclude with three actionable recommendations, namely that stakeholders should 1) use the ecosystem to map out state, federal, and international laws to produce a clearer policy landscape, 2) collectively develop a centralized
-database that dynamically tracks the 11 technologies in the ecosystem to better evaluate interventions, and 3) adopt a relational approach to researching AIG-NCII that studies the “edges” of the ecosystem map to better understand how the ecosystem technologies interact. Our goal is to produce an AIG-NCII technological ecosystem that provides a clear, shared terminology and framework for stakeholders to move into the future of AIG-NCII prevention with clarity and foresight.
+The last decade has witnessed a rapid advancement of generative AI technology that significantly scaled the accessibility of AI-generated non-consensual intimate images (AIG-NCII), a form of image-based sexual abuse that disproportionately harms and silences women and girls. There is a patchwork of commendable efforts across industry, policy, academia, and civil society to address AIG-NCII. However, these efforts lack a shared, consistent mental model that clearly situates the technologies they target within the context of a large, interconnected, and ever-evolving technological ecosystem. As a result, interventions remain siloed and are difficult to evaluate and compare, leading to a reactive cycle of whack-a-mole. 
 
-## Stay Updated
-This is an ongoing project. We have released the preprint and v1.0 of the ecosystem as a resource for stakeholders to aid current policy, research, and advocacy AIG-NCII mitigation efforts. To get notified on updates regarding the research paper and/or website tool, subscribe to: 
+AIG-NCII is powered not just by a single model, app, or website, but by a vast, interconnected, and ever-evolving technological ecosystem. Through a synthesis of over a hundred primary sources from academia, civil society, industry, and policy, we contribute the first comprehensive map of this ecosystem, including 11 categories of technologies that play one of five roles in facilitating AIG-NCII:
 
-## Contact
-For further inquiry, contact [Michelle L. Ding](https://michelle-ding.github.io/) at michelle_ding@brown.edu. Feedback and suggestions welcome!
+1) **Creation** (training datasets, generative AI models, and generative AI interfaces)
+
+2) **Distribution** (distribution channels)
+
+3) **Proliferation & Discovery** (deepfake creation communities, search engines, advertisement platforms, app stores)
+
+4) **Infrastructural Support** (developer platforms, critical service providers)
+
+5) **Monetization** (payment processors) 
+
+Our goal is to bridge the gaps and connects the dots to provide a clear, shared terminology and framework for stakeholders to move into the future of AIG-NCII prevention with clarity and foresight.
