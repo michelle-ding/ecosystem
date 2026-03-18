@@ -11,8 +11,7 @@ function Landing() {
     
         <div className="landing-text">
           <div className="landing-welcome">
-            Welcome to the AIG-NCII Ecosystem.
-            We mapped
+            Welcome to the AIG-NCII Ecosystem. This maps
             11 technologies 
             that facilitate AI-generated 
             non-consensual intimate images.
